@@ -98,3 +98,8 @@ div .questions.btn a{
   padding: 18px;
   font-size: 20px;
 }
+
+div .questions.btn a:hover{
+  background-color: #0069d9;
+  border-color: #0069d9;
+}
